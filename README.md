@@ -1,3 +1,7 @@
+![Who Is Like You — N.White Systems engineering portfolio](assets/portfolio-brand.svg)
+
+[Portfolio overview](https://github.com/whitemorengwira) · [All case studies](https://github.com/whitemorengwira/nwhitesystems) · [N.White Systems](https://nwhite.systems/)
+
 # Who Is Like You — Production Engineering & Workflow Architecture
 ## Music Video · Broadcast & Digital Distribution · Music · Client: Minister Michael Mahendere & Direct Worship / Ngoda TV
 
